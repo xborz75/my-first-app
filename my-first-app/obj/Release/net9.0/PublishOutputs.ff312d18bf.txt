@@ -1,0 +1,12 @@
+/app/my-first-app
+/app/appsettings.Development.json
+/app/appsettings.json
+/app/my-first-app.dll
+/app/my-first-app.deps.json
+/app/my-first-app.runtimeconfig.json
+/app/my-first-app.pdb
+/app/Microsoft.AspNetCore.OpenApi.dll
+/app/Microsoft.OpenApi.dll
+/app/Swashbuckle.AspNetCore.Swagger.dll
+/app/Swashbuckle.AspNetCore.SwaggerGen.dll
+/app/Swashbuckle.AspNetCore.SwaggerUI.dll
