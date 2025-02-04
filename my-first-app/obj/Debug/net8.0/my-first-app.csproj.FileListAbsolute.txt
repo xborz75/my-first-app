@@ -31,3 +31,7 @@
 /home/ubuntu/Bureau/tp1/my-first-app/obj/Debug/net8.0/my-first-app.pdb
 /home/ubuntu/Bureau/tp1/my-first-app/obj/Debug/net8.0/my-first-app.genruntimeconfig.cache
 /home/ubuntu/Bureau/tp1/my-first-app/obj/Debug/net8.0/ref/my-first-app.dll
+/home/ubuntu/Bureau/tp1/my-first-app/bin/Debug/net8.0/my-first-app.staticwebassets.endpoints.json
+/home/ubuntu/Bureau/tp1/my-first-app/obj/Debug/net8.0/my-first-app.sourcelink.json
+/home/ubuntu/Bureau/tp1/my-first-app/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/home/ubuntu/Bureau/tp1/my-first-app/obj/Debug/net8.0/staticwebassets/msbuild.my-first-app.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
