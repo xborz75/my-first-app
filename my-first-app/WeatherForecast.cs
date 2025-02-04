@@ -12,3 +12,4 @@ namespace myfirstapp
 
         public string Summary { get; set; }
     }
+}
