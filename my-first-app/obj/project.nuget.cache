@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dsZesoKOpbA=",
+  "dgSpecHash": "JTCJqWQqPXg=",
   "success": true,
   "projectFilePath": "/home/ubuntu/Bureau/tp1/my-first-app/my-first-app.csproj",
   "expectedPackageFiles": [
@@ -10,10 +10,7 @@
     "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swagger/7.2.0/swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
     "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swaggergen/7.2.0/swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.2.0/swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.10/microsoft.netcore.app.host.linux-x64.8.0.10.nupkg.sha512",
-    "/home/ubuntu/.nuget/packages/microsoft.netcore.app.ref/8.0.10/microsoft.netcore.app.ref.8.0.10.nupkg.sha512"
+    "/home/ubuntu/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.2.0/swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512"
   ],
   "logs": []
 }

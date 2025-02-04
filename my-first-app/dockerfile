@@ -8,6 +8,9 @@ RUN apt-get update && apt-get install -y dotnet-sdk-9.0 ca-certificates
 WORKDIR /source
 COPY . .
 
+# Attribution full droits sur le dossier /app
+RUN mkdir -p /app && chmod -R 777 /app
+
 # Publication de l'app dotnet
 RUN dotnet publish -c Release -o /app
 
