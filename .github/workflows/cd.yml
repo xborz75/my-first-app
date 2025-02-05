@@ -27,8 +27,3 @@ jobs:
           file: ./my-first-app/dockerfile
           push: true
           tags: xborz75/my-first-app:latest
-
-      - name: Debug - List Docker images before push
-        run: |
-          docker images
-          docker image inspect xborz75/my-first-app:latest || echo "Image not found"
