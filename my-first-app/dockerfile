@@ -8,8 +8,11 @@ RUN apt-get update && apt-get install -y dotnet-sdk-9.0 ca-certificates
 WORKDIR /source
 COPY . .
 
+# Changer de répertoire pour publier l'application
+WORKDIR /source/my-first-app
+
 # Publication de l'app dotnet
-RUN dotnet publish -c Release -o /app
+RUN dotnet publish my-first-app.csproj -c Release -o /app
 
 FROM ubuntu:24.10 AS prod
 
