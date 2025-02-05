@@ -27,3 +27,6 @@ jobs:
           file: ./my-first-app/dockerfile
           push: true
           tags: xborz75/my-first-app:latest
+
+      - name: Debug - Check Docker images pushed
+        run: docker images
